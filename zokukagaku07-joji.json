@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/joji",
  "yomi": "じょうじしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "江戸後期",
+  "author": "水野忠邦（1794〜1851）",
+  "desc": "老中水野忠邦の家集の抄。四季の題詠に加えて、天保の印旛沼の堀割工事の中止や、跡部良弼の町奉行への任命などにふれた歌も収める。"
+ },
  "editions": [
   {
    "pid": "993385",
